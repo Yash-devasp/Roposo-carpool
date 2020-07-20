@@ -1,0 +1,27 @@
+.box-shadow{
+	box-shadow: 0 .25rem .75rem;
+}
+.border-btm{
+	border-bottom: 1px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 600px;
+  }
+  .cardmargin{
+  	margin-left: 50px;
+  	margin-right: 50px;
+  	margin-top: 10px;
+  	margin-bottom: 10px;
+  }
+  .background{
+  	height: 200px;
+  	padding: 40px;
+  	margin-top: 50px;
+  	background-color: rgba(85, 226, 85, 0.81);;
+  	color: white;
+  }
+  .back{
+  	margin: 50px;
+  	text-align: center;
+  }

@@ -1,0 +1,15 @@
+table{
+	margin:auto;
+	margin-top: 50px; 
+}
+.message{
+	text-align: center;
+}
+th{
+	font-size: 40px;
+	padding: 10px;
+	padding-left: 20px;
+}
+tr{
+	margin: 10px;
+}
